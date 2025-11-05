@@ -11,9 +11,9 @@ Unlike traditional messengers, it doesn’t collect personal data or require pho
 
 
 ## Project Repositories
-- **[frontend](https://github.com/Passimx/chats-frontend)** — main web client  
-- **[chats service](https://github.com/Passimx/chats-service)** — chats service 
-- **[notifications service](https://github.com/Passimx/notifications-service)** — notifications service 
-- **[files service](https://github.com/Passimx/files-service)** — notifications service 
+- **[web client](https://github.com/Passimx/chats-frontend)**  
+- **[chats service](https://github.com/Passimx/chats-service)**
+- **[notifications service](https://github.com/Passimx/notifications-service)**
+- **[files service](https://github.com/Passimx/files-service)**
 
 https://github.com/Passimx/files-service
