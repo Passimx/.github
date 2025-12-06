@@ -15,3 +15,4 @@ Unlike traditional messengers, it doesn’t collect personal data or require pho
 - **[chats service](https://github.com/Passimx/chats-service)**
 - **[notifications service](https://github.com/Passimx/notifications-service)**
 - **[files service](https://github.com/Passimx/files-service)**
+- **[calls service](https://github.com/Passimx/calls-service)**
