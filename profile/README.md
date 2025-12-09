@@ -3,8 +3,13 @@
 **Passimx** is built to redefine privacy in online communication.
 Unlike traditional messengers, it doesn’t collect personal data or require phone/email verification — giving organizations and individuals full control over their communication.
 
+> A modern open-source project for free communication — no registration, no personal data, no phone numbers.
+
+> Designed for privacy-first chat systems that anyone can self-host.
+
+
 ## Our focus
-- Messaging without authentication or any personal identifiers
+- Communication without authentication or any personal identifiers
 - Self-hostable — deploy your own secure server
 - Secure and verifiable build processes
 - Developer-friendly tools and open-source contributions
@@ -16,3 +21,4 @@ Unlike traditional messengers, it doesn’t collect personal data or require pho
 - **[notifications service](https://github.com/Passimx/notifications-service)**
 - **[files service](https://github.com/Passimx/files-service)**
 - **[calls service](https://github.com/Passimx/calls-service)**
+- **[self host](https://github.com/Passimx/server-instance)**
